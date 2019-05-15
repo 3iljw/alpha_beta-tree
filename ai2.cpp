@@ -1,9 +1,6 @@
 #include <iostream>
 #include <sstream>
 #include <stdio.h>
-#include <fstream>
-
-using namespace std;
 
 #define MAX_NUM 2147483647
 #define MIN_NUM -2147483648
